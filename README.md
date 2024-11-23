@@ -1,50 +1,72 @@
-# Hi there! I'm Ahammed Nibras 👋
+# Hello There 👋  
 
-![Profile Banner](banner_image_url_here)
+My name is **Ahammed Nibras**, and I'm a **Flutter Developer** with a passion for creating innovative apps and solving real-world problems. I have completed notable program **Technology Leadership Program** from Edapt.  
 
-I'm a passionate student currently on a journey to master the world of programming through CS50 and Edapt’s Total Learning Package (TLP).
+Based in **India**, I'm on a journey to explore the intersections of technology, productivity, and entrepreneurship.  
 
-## About Me
+---
 
-- 🎓 **Student**: Learning CS50 and exploring new technologies.
-- 💻 **Tech Enthusiast**: Excited about software development and programming.
-- 🚀 **Aspiring Developer**: Aiming to build innovative software solutions.
-- 📚 **Lifelong Learner**: Always eager to expand my knowledge and skills.
+## 🔧 Technologies & Tools  
 
-## Skills
+**Languages:**  
+| C | Python | SQL | JavaScript | Java | Dart |
+|---|--------|-----|------------|------|------|
+| <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=for-the-badge&logo=sqlite&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> |
 
-- **Languages**: C, Python, JavaScript
-- **Frameworks**: Flutter (beginner), Node.js (beginner), htmx (beginner)
-- **Tools**: Git, GitHub, Firebase
-- **Currently Learning**: Flutter, Firebase, Go, Microeconomics
+**Frameworks:**  
+| Flutter |
+|---------|
+| <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> |
 
-## Projects
+**Backend:**  
+| Firebase |
+|----------|
+| <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> |
 
-### Current Projects
-- **CS50 Projects**: Building a solid foundation in computer science.
-- **Flutter App**: Developing a modern app with Firebase integration.
+**IDEs:**  
+| VSCode | Xcode | Android Studio |
+|--------|-------|----------------|
+| <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /> | <img src="https://img.shields.io/badge/Xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" /> | <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white" /> |
 
-### Upcoming Projects
-- **Chat Application**: An anonymous chat app integrated with the Tor network.
-- **Personal Website**: Creating a one-page website with HTML, CSS, and JavaScript.
+**Platforms:**  
+| iOS | Android |
+|-----|---------|
+| <img src="https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white" /> | <img src="https://img.shields.io/badge/Android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" /> |
 
-## Learning Resources
+**Operating System:**  
+| MacOS |
+|-------|
+| <img src="https://img.shields.io/badge/MacOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" /> |
+---
 
-- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
-- [Learn X by Doing Y](https://github.com/aquadzn/learn-x-by-doing-y)
+## 📊 GitHub Stats  
 
-## Goals
+<a href="https://github.com/AhammedNibras">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahammednibras8&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages" />
+</a>
+<a href="https://github.com/AhammedNibras">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahammednibras8&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+</a>  
 
-- 🎯 Build a strong personal brand on social media.
-- 🌟 Share my learning journey and help others along the way.
-- 💼 Showcase my skills to land a better job and understand consumer needs better.
+---
 
-## Connect with Me
+## 📂 Featured Projects  
 
-- [LinkedIn](https://www.linkedin.com/in/ahammednibras8/)
-- [X (formerly Twitter)](https://x.com/Ahammed__Nibras)
-- [Medium](https://medium.com/@ahammednibras8)
+I am currently working on [Flutter Chat App](https://github.com/ahammednibras8/flutter-chat-app)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahammednibras8&show_icons=true&theme=radical)
+## 🤝 Connect with Me  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammednibras8&layout=compact&theme=radical)
+<a href="mailto:ahammednibras737@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
+<a href="https://twitter.com/Ahammed__Nibras">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>  
+<a href="https://www.linkedin.com/in/ahammednibras8">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+
+---
+
+> Let's build, connect, and grow together!  
