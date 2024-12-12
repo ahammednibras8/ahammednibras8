@@ -14,9 +14,9 @@ Based in **India**, I'm on a journey to explore the intersections of technology,
 | <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=for-the-badge&logo=sqlite&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" /> |
 
 **Frameworks:**  
-| Flutter |
-|---------|
-| <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> |
+| Flutter | Svelte |
+|---------|--------|
+| <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> | <img src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" /> |
 
 **Backend:**  
 | Firebase |
