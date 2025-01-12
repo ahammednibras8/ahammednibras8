@@ -42,7 +42,7 @@ Based in **India**, I'm on a journey to explore the intersections of technology,
 ## 📊 GitHub Stats  
 
 <a href="https://github.com/ahammednibras8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahammednibras8&hide=html,css,c%2B%2B,cmake,swift,c,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahammednibras8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Top Languages" />
 </a>
 <a href="https://github.com/ahammednibras8">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahammednibras8&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
